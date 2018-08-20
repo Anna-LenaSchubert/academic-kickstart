@@ -10,31 +10,34 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Intelligence",
+    "Working Memory",
+    "Reasoning and Thinking",
+    "Cognitive Modeling",
+    "Neuroscience",
+    "Reproducibility in Science"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Psychology"
+  institution = "Heidelberg University"
+  year = 2016
+
+[[education.courses]]
+  course = "M.Sc. in Psychology"
+  institution = "Heidelberg University"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.Sc. in Psychology"
+  institution = "Heidelberg University"
+  year = 2010
  
 +++
 
-# Biography
+# About Me
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm working as a postdoc at the Section of Personality Research (Prof. Dr. Hagemann) at Heidelberg University, Germany.  In my research I try to identify the neuro-cognitive mechanisms underlying individual differences in general intelligence. In particular, I am investigating how interactions between cognitive processes such as mental speed, attention, executive functions, and working memory give rise to individual differences in intelligence.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+To achieve this goal, I employ a variety of neuro-cognitive methods. I use an experimental approach to determine how experimental or pharmaceutical manipulations of specific processes affect cognitive functions and general intelligence. Moreover, I use neurophysiological methods to study the biological basis of mental abilities. Most frequently, I study brain activity with the electroencephalogram (EEG), which gives me detailed information about the ongoing stream of neural information processing. Finally, I employ mathematical models of cognition to identify process parameters differing between individuals.
