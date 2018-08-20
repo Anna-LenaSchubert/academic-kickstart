@@ -23,7 +23,7 @@ publication = "Cognition"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Research on reasoning and judgment often uses problems where intuition and deliberation are in conflict, suggesting different solutions. In four studies, change detection was used to investigate whether biased responses to these problems are a consequence of faulty problem-solving or whether they can start earlier, from misrepresenting the information in the premises. After participants solved problems, they were presented with the same problems again in different versions, changing conflict problems to no-conflict problems and vice versa. Participants who were more sensitive to these changes showed better reasoning. These results suggest that biases can start before the problem-solving stage, from misrepresenting the conflict between deliberation and intuition.."
+abstract = "Research on reasoning and judgment often uses problems where intuition and deliberation are in conflict, suggesting different solutions. In four studies, change detection was used to investigate whether biased responses to these problems are a consequence of faulty problem-solving or whether they can start earlier, from misrepresenting the information in the premises. After participants solved problems, they were presented with the same problems again in different versions, changing conflict problems to no-conflict problems and vice versa. Participants who were more sensitive to these changes showed better reasoning. These results suggest that biases can start before the problem-solving stage, from misrepresenting the conflict between deliberation and intuition."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
