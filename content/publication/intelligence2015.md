@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "http://www.mdpi.com/2079-3200/4/3/7/pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
