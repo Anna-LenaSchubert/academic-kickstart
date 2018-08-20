@@ -1,6 +1,6 @@
 +++
 title = "Individual differences in cortical processing speed predict cognitive abilities: a model-based cognitive neuroscience account"
-date = 2017-07-23
+date = 2018-07-23
 draft = false
 
 # Authors.
