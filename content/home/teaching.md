@@ -16,3 +16,5 @@ weight = 60
 +++
 
 I am teaching different classes on individual differences in cognitive processes, neuroscientific methods, research design, and statistical methods. In the next semester, I will be teaching an experimental project seminar at the Bachelor level and a class on the neuro-cognitive processes underlying intelligence at the Master level.
+
+If you are a student at Heidelberg University and interested in writing your Bachelor's or Master's thesis with me, please contact me via e-mail or drop by at my office. I'm offering a wide range of topics related to my research areas and I welcome any students interested in electrophysiological methods or cognitive modeling in general.
