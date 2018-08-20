@@ -1,10 +1,10 @@
 +++
-title = "TThe role of language comprehension in reasoning: How good-enough representations induce biases"
+title = "The role of language comprehension in reasoning: How good-enough representations induce biases"
 date = 2013-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GA Cushen", "MS Nixon"]
+authors = ["André Mata", "Anna-Lena Schubert", "Mário Ferreira"]
 
 # Publication type.
 # Legend:
@@ -15,7 +15,7 @@ authors = ["GA Cushen", "MS Nixon"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 
 # Publication name and optional abbreviated version.
