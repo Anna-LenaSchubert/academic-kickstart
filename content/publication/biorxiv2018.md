@@ -45,8 +45,8 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_preprint = "https://www.biorxiv.org/content/early/2018/07/23/374827.full.pdf"
-url_code = ""
-url_dataset = ""
+url_code = "https://osf.io/de75n/"
+url_dataset = "https://osf.io/de75n/"
 url_project = ""
 url_slides = ""
 url_video = ""
