@@ -43,8 +43,8 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.biorxiv.org/content/early/2018/07/23/374827.full.pdf"
-url_preprint = ""
+url_pdf = ""
+url_preprint = "https://www.biorxiv.org/content/early/2018/07/23/374827.full.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
