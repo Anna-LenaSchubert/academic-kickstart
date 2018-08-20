@@ -1,0 +1,74 @@
++++
+title = "Trait Characteristics of Diffusion Model Parameters"
+date = 2016-07-18
+draft = false
+
+# Authors.
+authors = ["Anna-Lena Schubert", "Gidon T. Frischkorn", "Dirk Hagemann", "Andreas Voss"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Manuscript
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+publication_types = ["2"]
+
+
+# Publication name and optional abbreviated version.
+publication = "Journal of Intelligence"
+publication_short = ""
+
+# Abstract and optional shortened version.
+abstract = "Cognitive modeling of response time distributions has seen a huge rise in popularity in individual differences research. In particular, several studies have shown that individual differences in the drift rate parameter of the diffusion model, which reflects the speed of information uptake, are substantially related to individual differences in intelligence. However, if diffusion model parameters are to reflect trait-like properties of cognitive processes, they have to qualify as trait-like variables themselves, i.e., they have to be stable across time and consistent over different situations. To assess their trait characteristics, we conducted a latent state-trait analysis of diffusion model parameters estimated from three response time tasks that 114 participants completed at two laboratory sessions eight months apart. Drift rate, boundary separation, and non-decision time parameters showed a great temporal stability over a period of eight months. However, the coefficients of consistency and reliability were only low to moderate and highest for drift rate parameters. These results show that the consistent variance of diffusion model parameters across tasks can be regarded as temporally stable ability parameters. Moreover, they illustrate the need for using broader batteries of response time tasks in future studies on the relationship between diffusion model parameters and intelligence."
+
+# Featured image thumbnail (optional)
+image_preview = ""
+
+# Is this a selected publication? (true/false)
+selected = true
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's filename without extension.
+#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
+#   Otherwise, set `projects = []`.
+projects = []
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+
+# Links (optional).
+url_pdf = ""
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+url_custom = [{name = "Journal Article", url = "http://www.mdpi.com/2079-3200/4/3/7"}]
+
+# Does this page contain LaTeX math? (true/false)
+math = true
+
+# Does this page require source code highlighting? (true/false)
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = ""
+caption = ""
+
++++
+
+More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
