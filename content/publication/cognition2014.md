@@ -43,8 +43,8 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S0010027714001486?via%3Dihub"
+url_preprint = "#"
 url_code = "#"
 url_dataset = "#"
 url_project = "#"
