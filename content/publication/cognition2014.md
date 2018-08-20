@@ -1,6 +1,6 @@
 +++
 title = "The role of language comprehension in reasoning: How good-enough representations induce biases"
-date = 2014-09
+date = 2014-09-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
