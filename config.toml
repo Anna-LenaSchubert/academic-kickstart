@@ -74,7 +74,7 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "anna-lena.schubert@psychologie.uni-heidelberg.de"
   address = "Heidelberg University, Institute of Psychology, Hauptstrasse 47-51, D-69117, Heidelberg"
-  office_hours = "email for appointment"
+  office_hours = "Office hour by appointment"
   phone = "+49-(0)6221-547746"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
