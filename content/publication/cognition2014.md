@@ -1,10 +1,10 @@
 +++
-title = "The role of language comprehension in reasoning: How "good-enough" representations induce biases"
+title = "Mobile visual clothing search"
 date = 2013-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["André Mata", "Anna-Lena Schubert", "Mário Ferreira"]
+authors = ["GA Cushen", "MS Nixon"]
 
 # Publication type.
 # Legend:
@@ -15,7 +15,8 @@ authors = ["André Mata", "Anna-Lena Schubert", "Mário Ferreira"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["1"]
+
 
 # Publication name and optional abbreviated version.
 publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
