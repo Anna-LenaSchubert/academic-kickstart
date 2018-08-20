@@ -1,5 +1,5 @@
 +++
-title = "Mobile visual clothing search"
+title = "The role of language comprehension in reasoning: How "good-enough" representations induce biases"
 date = 2013-07-01T00:00:00
 draft = false
 
