@@ -54,8 +54,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Journal Article", url = "https://www.sciencedirect.com/science/article/pii/S0010027714001486?via
-3Dihub"}]
+url_custom = [{name = "Journal Article", url = "https://www.sciencedirect.com/science/article/pii/S0160289615000628"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
