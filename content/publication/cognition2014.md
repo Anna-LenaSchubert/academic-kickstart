@@ -1,5 +1,5 @@
 +++
-title = "The role of language comprehension in reasoning: How "good-enough" representations induce biases"
+title = "The role of language comprehension in reasoning: How "good-enough" representations induce biases" #
 
 # Date first published.
 date = "2014-11"
